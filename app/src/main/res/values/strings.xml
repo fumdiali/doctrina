@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Doctrina</string>
+    <string name="app_label"><i>Free Knowledge</i></string>
+    <string name="app_launch_btn">Start Doctrina</string>
+    <string name="about_menu">About Us</string>
+    <string name="item2">Item2</string>
+    <string name="item3">Item3</string>
+    <string name="category_label">Select Topic</string>
+    <string name="learn_ibo">Learn Igbo Language</string>
+    <string name="learn_math">Learn Basic Maths</string>
+    <string name="learn_art">Art appreciation basics</string>
+    <string name="learn_history">History of Anioma</string>
+    <string name="iboActivity">Learn Igbo</string>
+    <string name="mathActivity">Learn basic Mathematics</string>
+</resources>

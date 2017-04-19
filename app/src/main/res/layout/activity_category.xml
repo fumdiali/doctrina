@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/brainclogs"
+    android:orientation="vertical"
+    tools:context="ng.layer7.doctrina.CategoryActivity">
+
+    <TextView
+        android:id="@+id/igbo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="67dp"
+        android:background="@color/igbo"
+        android:text="@string/learn_ibo"
+        android:textSize="35sp"
+        android:onClick="learnIbo"/>
+    <TextView
+        android:id="@+id/math"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:background="@color/math"
+        android:text="@string/learn_math"
+        android:textSize="35sp"
+        android:onClick="learnMath"/>
+    <TextView
+        android:id="@+id/art"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:background="@color/art"
+        android:text="@string/learn_art"
+        android:textSize="35sp"/>
+    <TextView
+        android:id="@+id/history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:background="@color/history"
+        android:text="@string/learn_history"
+        android:textSize="35sp"/>
+
+
+</LinearLayout>
